@@ -1,1 +1,1 @@
-Welcome to Masoncraft!
+Welcome to Masoncraft! (1.20.6)
